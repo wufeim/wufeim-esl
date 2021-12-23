@@ -3,6 +3,6 @@
 
 .. toctree::
    :maxdepth: 2
-   chapter-2-1
-   chapter-2-2
-   chatper-2-3
+   chapter-2/chapter-2-1
+   chapter-2/chapter-2-2
+   chapter-2/chatper-2-3
