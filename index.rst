@@ -4,6 +4,7 @@ Notes for Elements of Statistical Learning
 .. toctree::
    :maxdepth: 2
 
+   chapter-2/chapter-2
    chapter-3
    chapter-4
    exercise-solutions
